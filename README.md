@@ -156,12 +156,13 @@ Machine Learning
 <h3 align="center">🛒 CampusKart</h3>
 
 <p align="center">
-<b>Campus Marketplace</b>
+<b>Campus Marketplace • 100+ Users</b>
 </p>
 
 <p>
 A campus-focused marketplace that allows students to
 <b>buy and sell items within their campus community</b>.
+The platform has reached <b>100+ users</b>.
 </p>
 
 <p>
@@ -372,8 +373,20 @@ AI applications.
 
 <p align="center">
 
+<a href="mailto:mahendraarjundurgam@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+&nbsp;&nbsp;
+
 <a href="https://www.linkedin.com/in/arjun-durgam-8317a5379">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://leetcode.com/u/Arjun_durgam/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
 &nbsp;&nbsp;
