@@ -371,33 +371,62 @@ AI applications.
 
 <h2>🌐 Let's Connect</h2>
 
-<p align="center">
+<div align="center">
+
+<p>
+<b>Have an idea, project, or just want to connect?</b><br>
+Feel free to reach out through any of the platforms below.
+</p>
+
+<br>
+
+<table>
+<tr>
+
+<td align="center" width="180">
 
 <a href="mailto:mahendraarjundurgam@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-&nbsp;&nbsp;
+</td>
+
+<td align="center" width="180">
 
 <a href="https://www.linkedin.com/in/arjun-durgam-8317a5379">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-&nbsp;&nbsp;
+</td>
+
+<td align="center" width="180">
 
 <a href="https://leetcode.com/u/Arjun_durgam/">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
-&nbsp;&nbsp;
+</td>
+
+<td align="center" width="180">
 
 <a href="https://github.com/mahendraarjundurgam-byte">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</p>
+</td>
+
+</tr>
+</table>
 
 <br>
+
+<p>
+<img src="https://img.shields.io/badge/Let's%20Build%20Something%20Great%20Together-203A43?style=for-the-badge&logo=rocket&logoColor=white"/>
+</p>
+
+</div>
+
+---
 
 <div align="center">
 
