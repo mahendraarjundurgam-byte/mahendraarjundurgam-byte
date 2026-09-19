@@ -1,32 +1,214 @@
-<h1>Hi 👋, I'm </h1>
-<p>A passionate full stack developer from </p>
-<h2>🚀 Languages and Tools I Use</h2>
-<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="42" height="42" /></a>
-<a target="_blank" href="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" style="display: inline-block;"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="42" height="42" /></a>
-<a target="_blank" href="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" style="display: inline-block;"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a>
-<a target="_blank" href="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="42" height="42" /></a></p>
-<h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://www.linkedin.com/in/linkedin.com/in/arjun-durgam-8317a5379" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Arjun Durgam&show_icons=true&locale=en" alt="Arjun Durgam" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Arjun Durgam&" alt="Arjun Durgam" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Arjun Durgam&show_icons=true&locale=en&layout=compact" alt="Arjun Durgam" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Arjun Durgam" alt="Arjun Durgam" /></a></p>
+<h1 align="center">👋 Hi, I'm Arjun Durgam</h1>
+
+<h3 align="center">🚀 A passionate Full-Stack Developer from India 🇮🇳</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%F0%9F%92%BB;Android+%26+Flutter+Developer+%F0%9F%93%B1;AI+%26+Machine+Learning+Enthusiast+%F0%9F%A4%96;Building+Real-World+Projects+%F0%9F%9A%80;Always+Learning+%26+Improving+%F0%9F%94%A5" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/Arjun-Durgam">
+    <img src="https://komarev.com/ghpvc/?username=Arjun-Durgam&label=Profile%20Views&color=36BCF7&style=for-the-badge" />
+  </a>
+  <a href="https://github.com/Arjun-Durgam?tab=followers">
+    <img src="https://img.shields.io/github/followers/Arjun-Durgam?label=Followers&style=for-the-badge&color=6A5ACD" />
+  </a>
+</p>
+
+---
+
+<h2>🧑‍💻 About Me</h2>
+
+<p>
+I'm a developer who enjoys building <b>real-world applications</b> and solving problems through technology.
+I work across web, mobile, backend, and AI/ML development and I'm continuously improving my
+<b>Data Structures & Algorithms</b> and software development skills.
+</p>
+
+<ul>
+  <li>🎓 B.Tech Student at <b>IIT Jodhpur</b></li>
+  <li>💻 Full-Stack & Mobile App Developer</li>
+  <li>🧠 Practicing Data Structures & Algorithms</li>
+  <li>🤖 Exploring Artificial Intelligence & Machine Learning</li>
+  <li>🚀 Building practical projects and applications</li>
+  <li>🔥 Learning, building and improving every day</li>
+</ul>
+
+---
+
+<h2>🚀 Languages & Tools I Use</h2>
+
+<h3>💻 Programming Languages</h3>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,javascript,python,dart" />
+</p>
+
+<h3>🌐 Web Development</h3>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs" />
+</p>
+
+<h3>📱 Mobile Development</h3>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=androidstudio,flutter,dart" />
+</p>
+
+<h3>🤖 AI / Machine Learning</h3>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,opencv,tensorflow,pytorch" />
+</p>
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg"
+       width="42" height="42" alt="Pandas" />
+  &nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"
+       width="42" height="42" alt="Scikit-learn" />
+  &nbsp;
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg"
+       width="42" height="42" alt="Seaborn" />
+</p>
+
+<h3>🗄️ Backend & Databases</h3>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
+</p>
+
+<h3>⚙️ Tools & Platforms</h3>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,git,github,arduino,vscode" />
+</p>
+
+---
+
+<h2>🔥 Featured Projects</h2>
+
+<table>
+<tr>
+<td width="50%">
+
+<h3 align="center">🛒 CampusKart</h3>
+
+<p align="center">
+A campus marketplace designed to help students buy and sell items within their campus community.
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Android-Java-3DDC84?style=flat-square&logo=android"/>
+<img src="https://img.shields.io/badge/Node.js-Express-339933?style=flat-square&logo=node.js"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb"/>
+</p>
+
+</td>
+
+<td width="50%">
+
+<h3 align="center">🏥 Med1</h3>
+
+<p align="center">
+A healthcare platform connecting patients, doctors, medical stores, distributors and laboratories.
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter"/>
+<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase"/>
+</p>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+<h3 align="center">🤖 AI Travel Buddy</h3>
+
+<p align="center">
+An AI-powered travel assistant for creating personalized travel plans and recommendations.
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square"/>
+<img src="https://img.shields.io/badge/Ollama-black?style=flat-square"/>
+</p>
+
+</td>
+
+<td width="50%">
+
+<h3 align="center">📸 Face Recognition Attendance</h3>
+
+<p align="center">
+An automated attendance system using face recognition with reporting and management features.
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv"/>
+</p>
+
+</td>
+</tr>
+</table>
+
+---
+
+<h2>📊 GitHub Statistics</h2>
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Arjun-Durgam&show_icons=true&theme=tokyonight&hide_border=true&locale=en" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arjun-Durgam&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Arjun-Durgam&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+<h2>🏆 GitHub Trophies</h2>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Arjun-Durgam&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
+</p>
+
+---
+
+<h2>📈 Contribution Graph</h2>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arjun-Durgam&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+<h2>⚡ Where to Find Me</h2>
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/arjun-durgam-8317a5379">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+ 
+
+<a href="https://github.com/Arjun-Durgam">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</p>
+
+---
+
+<h3 align="center">💭 Build • Learn • Improve • Repeat</h3>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:6A5ACD&height=120&section=footer" />
+</p>
