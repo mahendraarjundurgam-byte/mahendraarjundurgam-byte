@@ -7,11 +7,11 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Arjun-Durgam">
-    <img src="https://komarev.com/ghpvc/?username=Arjun-Durgam&label=Profile%20Views&color=36BCF7&style=for-the-badge" />
+  <a href="https://github.com/mahendraarjundurgam-byte">
+    <img src="https://komarev.com/ghpvc/?username=mahendraarjundurgam-byte&label=PROFILE%20VIEWS&color=36BCF7&style=for-the-badge" />
   </a>
-  <a href="https://github.com/Arjun-Durgam?tab=followers">
-    <img src="https://img.shields.io/github/followers/Arjun-Durgam?label=Followers&style=for-the-badge&color=6A5ACD" />
+  <a href="https://github.com/mahendraarjundurgam-byte?tab=followers">
+    <img src="https://img.shields.io/github/followers/mahendraarjundurgam-byte?label=FOLLOWERS&style=for-the-badge&color=6A5ACD" />
   </a>
 </p>
 
@@ -91,6 +91,7 @@ I work across web, mobile, backend, and AI/ML development and I'm continuously i
 
 <table>
 <tr>
+
 <td width="50%">
 
 <h3 align="center">🛒 CampusKart</h3>
@@ -122,9 +123,11 @@ A healthcare platform connecting patients, doctors, medical stores, distributors
 </p>
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%">
 
 <h3 align="center">🤖 AI Travel Buddy</h3>
@@ -155,6 +158,7 @@ An automated attendance system using face recognition with reporting and managem
 </p>
 
 </td>
+
 </tr>
 </table>
 
@@ -163,12 +167,15 @@ An automated attendance system using face recognition with reporting and managem
 <h2>📊 GitHub Statistics</h2>
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Arjun-Durgam&show_icons=true&theme=tokyonight&hide_border=true&locale=en" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arjun-Durgam&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="180"
+       src="https://github-readme-stats.vercel.app/api?username=mahendraarjundurgam-byte&show_icons=true&theme=tokyonight&hide_border=true&locale=en" />
+
+  <img height="180"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahendraarjundurgam-byte&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Arjun-Durgam&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=mahendraarjundurgam-byte&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -176,7 +183,7 @@ An automated attendance system using face recognition with reporting and managem
 <h2>🏆 GitHub Trophies</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Arjun-Durgam&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mahendraarjundurgam-byte&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
 </p>
 
 ---
@@ -184,7 +191,7 @@ An automated attendance system using face recognition with reporting and managem
 <h2>📈 Contribution Graph</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arjun-Durgam&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahendraarjundurgam-byte&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
@@ -197,9 +204,9 @@ An automated attendance system using face recognition with reporting and managem
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
- 
+&nbsp;&nbsp;
 
-<a href="https://github.com/Arjun-Durgam">
+<a href="https://github.com/mahendraarjundurgam-byte">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
