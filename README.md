@@ -164,35 +164,71 @@ An automated attendance system using face recognition with reporting and managem
 
 ---
 
-<h2>📊 GitHub Statistics</h2>
+<h2>📊 GitHub Snapshot</h2>
 
 <p align="center">
-  <img height="180"
-       src="https://github-readme-stats.vercel.app/api?username=mahendraarjundurgam-byte&show_icons=true&theme=tokyonight&hide_border=true&locale=en" />
+  <a href="https://github.com/mahendraarjundurgam-byte">
+    <img src="https://img.shields.io/github/followers/mahendraarjundurgam-byte?style=for-the-badge&logo=github&label=Followers&color=36BCF7" />
+  </a>
 
-  <img height="180"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahendraarjundurgam-byte&layout=compact&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/mahendraarjundurgam-byte?tab=repositories">
+    <img src="https://img.shields.io/github/repos/mahendraarjundurgam-byte?style=for-the-badge&logo=github&label=Public%20Repositories&color=6A5ACD" />
+  </a>
+
+  <a href="https://github.com/mahendraarjundurgam-byte?tab=stars">
+    <img src="https://img.shields.io/github/stars/mahendraarjundurgam-byte?style=for-the-badge&logo=github&label=Stars&color=F5C518" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=mahendraarjundurgam-byte&theme=tokyonight&hide_border=true" />
+  <img src="https://img.shields.io/github/commit-activity/y/mahendraarjundurgam-byte?style=for-the-badge&logo=git&label=Commits%20This%20Year&color=36BCF7" />
+
+  <img src="https://img.shields.io/github/last-commit/mahendraarjundurgam-byte/campuskart-iitj?style=for-the-badge&logo=github&label=Latest%20CampusKart%20Commit&color=6A5ACD" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/mahendraarjundurgam-byte?tab=overview">
+    <img src="https://img.shields.io/badge/View%20My-GitHub%20Activity-181717?style=for-the-badge&logo=github" />
+  </a>
 </p>
 
 ---
 
-<h2>🏆 GitHub Trophies</h2>
+<h2>💻 Currently Working On</h2>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mahendraarjundurgam-byte&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
-</p>
+<table>
+<tr>
+<td width="50%">
 
----
+### 🛒 CampusKart
+Building and improving a campus-focused marketplace for students.
 
-<h2>📈 Contribution Graph</h2>
+</td>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahendraarjundurgam-byte&theme=tokyo-night&hide_border=true" />
-</p>
+<td width="50%">
+
+### 🏥 Med1
+Developing a multi-role healthcare platform connecting patients and healthcare providers.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🧠 Data Structures & Algorithms
+Practicing problem solving and improving competitive programming skills.
+
+</td>
+
+<td width="50%">
+
+### 🤖 AI / ML
+Exploring practical applications of Artificial Intelligence and Machine Learning.
+
+</td>
+</tr>
+</table>
 
 ---
 
